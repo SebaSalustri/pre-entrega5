@@ -1,0 +1,13 @@
+# Archivos originales de datos
+data/*.csv
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+
+# Variables de entorno
+.env
